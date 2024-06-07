@@ -22,6 +22,7 @@ const App = () => {
   const { isLoading, error } = useAuth0();
 
   if (error) {
+
     return <div>Oops... {error.message}</div>;
   }
 
