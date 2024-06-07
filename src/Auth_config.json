@@ -1,5 +1,5 @@
 {
-  "domain": "dev-hzaulpvyunk1wiak.us.auth0.com",
-  "clientId": "bGTbj2gyAkF1gQMBcpPipJ3JeMNS2Y4j",
-  "audience": "https://dev-hzaulpvyunk1wiak.us.auth0.com/api/v2/"
+  "domain": "{yourDomain}",
+  "clientId": "{yourClientId}",
+  "audience": "{yourApiIdentifier}"
 }
